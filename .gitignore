@@ -5,3 +5,5 @@ __pycache__
 *.log
 config.ini
 venv
+env
+sketch
